@@ -8,6 +8,7 @@ All solutions are written with a focus on **clean code, optimal approach, and cl
 
 ## 📌 Topics Covered
 
+- Basics
 - Arrays  
 - Linked List  
 - Stack & Queue  
@@ -22,6 +23,7 @@ All solutions are written with a focus on **clean code, optimal approach, and cl
 
 ```text
 DSA-Practice/
+├── Basics/
 ├── Arrays/
 ├── LinkedList/
 ├── Stack/
